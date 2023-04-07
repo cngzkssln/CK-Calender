@@ -1,3 +1,5 @@
+# " [This project is tested with BrowserStack.](https://www.browserstack.com)”
+
 
 # CK Calendar Based on Etar Calculator App open source
 CK Calender (from Arabic:  `إِيتَار`)  is an open source material designed calendar made for everyone!
